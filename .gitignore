@@ -1,0 +1,6 @@
+*_output.txt
+static/
+*.idea/
+__pycache__/
+venv/
+.vscode
